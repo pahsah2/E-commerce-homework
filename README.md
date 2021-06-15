@@ -4,7 +4,7 @@ homework my from course Udemy
 Credit https://www.udemy.com/course/mern-ecommerce/
 try to learn basic and middle reactjs and expressjs
 
-i think project this can intest about e commerce develop and pass to next time for my idea to project 
+i think project this intesting about e commerce develop and pass to next project of my idea  
 Thank you every much . 
 
 project's abilities 
