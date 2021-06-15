@@ -12,5 +12,5 @@ project's abilities
 2. nodejs , expressjs 
 3. mongodb and design to database nosql 
 4. develop e-commerce
-5. fix error handler and authorization
+5. fix error event handler and authorization
 
